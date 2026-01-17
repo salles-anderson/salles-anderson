@@ -45,17 +45,18 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=salles-anderson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salles-anderson&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=salles-anderson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=salles-anderson&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=salles-anderson&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=salles-anderson&layout=compact&langs_count=8&theme=default"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salles-anderson&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salles-anderson&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+  <img src="https://streak-stats.demolab.com/?user=salles-anderson&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ## Connect with Me
