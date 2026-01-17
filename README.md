@@ -45,8 +45,20 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=salles-anderson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salles-anderson&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=salles-anderson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salles-anderson&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salles-anderson&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=salles-anderson&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salles-anderson&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </div>
 
 ## Connect with Me
