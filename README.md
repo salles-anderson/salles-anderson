@@ -53,9 +53,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=salles-anderson&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salles-anderson&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=salles-anderson&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
