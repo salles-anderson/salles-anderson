@@ -55,9 +55,6 @@
   </picture>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=salles-anderson&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
 
 ## Connect with Me
 
