@@ -14,7 +14,7 @@
 
 ```yaml
 name: Anderson Sales
-role: SRE Senior | Platform Engineer | DevOps Cloud
+role: SRE | Platform Engineer | DevOps Cloud
 location: São Paulo, Brazil
 company: GFT Technologies / A5X
 
