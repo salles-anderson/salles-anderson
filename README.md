@@ -16,7 +16,7 @@
 name: Anderson Sales
 role: SRE | Platform Engineer | DevOps Cloud
 location: São Paulo, Brazil
-company: Platform Engineering
+company: Teck Solucoes
 
 focus_areas:
   - Site Reliability Engineering (SLI/SLO/Error Budget)
